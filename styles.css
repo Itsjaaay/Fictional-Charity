@@ -1,5 +1,5 @@
-/* Reset default margin and padding */
-body, h1, h2, p {
+/* Reset default margin and padding for specific elements */
+.charity-name, .charity-description, .charity-info, .charity-image {
     margin: 0;
     padding: 0;
 }
